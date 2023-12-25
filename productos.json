@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Cubre Calzado",
+    "description": "Protección para los zapatos en la industria de alimentos.",
+    "price": 9.99,
+    "thumbnail": "/images/cubre_calzado.jpg",
+    "code": "CC001",
+    "stock": 100,
+    "id": 1
+  },
+  {
+    "name": "Nueva Cofia",
+    "description": "Cofia actualizada",
+    "price": 7.99,
+    "thumbnail": "/images/nueva_cofia.jpg",
+    "code": "CF002",
+    "stock": 75,
+    "id": 2
+  },
+  {
+    "name": "Manguillas",
+    "description": "Manguillas para proteger los brazos en la manipulación de alimentos.",
+    "price": 7.99,
+    "thumbnail": "/images/manguillas.jpg",
+    "code": "MG004",
+    "stock": 40,
+    "id": 4
+  }
+]
