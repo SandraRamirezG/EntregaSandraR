@@ -32,7 +32,7 @@
     "price": 9.99,
     "thumbnail": "/images/cubre_calzado.jpg",
     "code": "CC001",
-    "stock": 100,
+    "stock": 0,
     "id": 5
   },
   {
@@ -52,14 +52,5 @@
     "code": "PC003",
     "stock": 30,
     "id": 7
-  },
-  {
-    "name": "Manguillas",
-    "description": "Manguillas para proteger los brazos en la manipulación de alimentos.",
-    "price": 7.99,
-    "thumbnail": "/images/manguillas.jpg",
-    "code": "MG004",
-    "stock": 40,
-    "id": 8
   }
 ]
